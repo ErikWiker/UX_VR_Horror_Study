@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e4f5cc55b013a7140afe45d660afdfa6
+timeCreated: 1522171799
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Door
+    100002: //RootNode
+    100004: Door_Frame
+    100006: pCube20
+    100008: Windowed_Door_High:Door_Handle1_high
+    100010: Windowed_Door_High:Door_Hinge_1_high
+    100012: Windowed_Door_High:Door_Hinge_2_high
+    100014: Windowed_Door_High:Door_Hinge_3_high
+    100016: Windowed_Door_High:Door_Window_high
+    100018: Windowed_Door_High:Hinge_Plate1_high
+    100020: Windowed_Door_High:Hinge_Plate2_high
+    100022: Windowed_Door_High:Hinge_Plate3_high
+    100024: Windowed_Door_High:Hinge_Plate4_high
+    100026: Windowed_Door_High:Hinge_Plate5_high
+    100028: Windowed_Door_High:Hinge_Plate_high
+    400000: Door
+    400002: //RootNode
+    400004: Door_Frame
+    400006: pCube20
+    400008: Windowed_Door_High:Door_Handle1_high
+    400010: Windowed_Door_High:Door_Hinge_1_high
+    400012: Windowed_Door_High:Door_Hinge_2_high
+    400014: Windowed_Door_High:Door_Hinge_3_high
+    400016: Windowed_Door_High:Door_Window_high
+    400018: Windowed_Door_High:Hinge_Plate1_high
+    400020: Windowed_Door_High:Hinge_Plate2_high
+    400022: Windowed_Door_High:Hinge_Plate3_high
+    400024: Windowed_Door_High:Hinge_Plate4_high
+    400026: Windowed_Door_High:Hinge_Plate5_high
+    400028: Windowed_Door_High:Hinge_Plate_high
+    2100000: lambert3
+    2100002: Windowed_Door_High_Door_Hinge_1SG1
+    2100004: Windowed_Door_High_DoorSG1
+    2100006: lambert1
+    2300000: Door_Frame
+    2300002: pCube20
+    2300004: Windowed_Door_High:Door_Handle1_high
+    2300006: Windowed_Door_High:Door_Hinge_1_high
+    2300008: Windowed_Door_High:Door_Hinge_2_high
+    2300010: Windowed_Door_High:Door_Hinge_3_high
+    2300012: Windowed_Door_High:Door_Window_high
+    2300014: Windowed_Door_High:Hinge_Plate1_high
+    2300016: Windowed_Door_High:Hinge_Plate2_high
+    2300018: Windowed_Door_High:Hinge_Plate3_high
+    2300020: Windowed_Door_High:Hinge_Plate4_high
+    2300022: Windowed_Door_High:Hinge_Plate5_high
+    2300024: Windowed_Door_High:Hinge_Plate_high
+    3300000: Door_Frame
+    3300002: pCube20
+    3300004: Windowed_Door_High:Door_Handle1_high
+    3300006: Windowed_Door_High:Door_Hinge_1_high
+    3300008: Windowed_Door_High:Door_Hinge_2_high
+    3300010: Windowed_Door_High:Door_Hinge_3_high
+    3300012: Windowed_Door_High:Door_Window_high
+    3300014: Windowed_Door_High:Hinge_Plate1_high
+    3300016: Windowed_Door_High:Hinge_Plate2_high
+    3300018: Windowed_Door_High:Hinge_Plate3_high
+    3300020: Windowed_Door_High:Hinge_Plate4_high
+    3300022: Windowed_Door_High:Hinge_Plate5_high
+    3300024: Windowed_Door_High:Hinge_Plate_high
+    4300000: Door_Frame
+    4300002: Windowed_Door_High:Hinge_Plate1_high
+    4300004: Windowed_Door_High:Door_Hinge_2_high
+    4300006: Windowed_Door_High:Hinge_Plate_high
+    4300008: Windowed_Door_High:Door_Hinge_1_high
+    4300010: Windowed_Door_High:Door_Window_high
+    4300012: Windowed_Door_High:Hinge_Plate5_high
+    4300014: Windowed_Door_High:Hinge_Plate4_high
+    4300016: Windowed_Door_High:Door_Hinge_3_high
+    4300018: Windowed_Door_High:Hinge_Plate3_high
+    4300020: Windowed_Door_High:Hinge_Plate2_high
+    4300022: pCube20
+    4300024: Windowed_Door_High:Door_Handle1_high
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
